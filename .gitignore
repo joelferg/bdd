@@ -1,3 +1,6 @@
 *.DS_Store
 /PS1/RW_2010_DHS_01292021_2052_158441/*
 *checkpoint*
+/readings/*
+/PS1/output/*
+.env
